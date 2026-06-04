@@ -20,23 +20,17 @@ The project involves data preprocessing and cleaning (handling missing values in
 ---
 ## 🎨 Dynamic Web Application Interface & Multi-Scenario Test Cases
 
-Here are the visual outputs showcasing the fully deployed, interactive Streamlit application with different real-time customer behavior analysis and churn probability assessments:
-
 ### Scenario 1: Standard Customer Analysis (Baseline Drop)
-![Web App Screenshot 1](app_screenshot_1.png)
+![Web App Screenshot 1](app_screenshot_1.png.jpeg)
 
 ### Scenario 2: High Risk Verification Profile
-![Web App Screenshot 2](app_screenshot_2.png)
+![Web App Screenshot 2](app_screenshot_2.png.jpeg)
 
 ### Scenario 3: Fiber-Optic & Value Added Services Optimization
-![Web App Screenshot 3](app_screenshot_3.png)
+![Web App Screenshot 3](app_screenshot_3.png.jpeg)
 
 ### Scenario 4: Paperless Billing & Long-Term Contract Safety Check
-![Web App Screenshot 4](app_screenshot_4.png)
-
-### Scenario 5: Maximum Retention Loyalty Verification (Lowest Churn Risk)
-![Web App Screenshot 5](app_screenshot_5.png)
-
+![Web App Screenshot 4](app_screenshot_4.png.jpeg)
 ---
 
 ## ⚙️ Required Libraries & Dependencies
