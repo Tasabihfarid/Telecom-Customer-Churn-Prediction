@@ -15,7 +15,11 @@ The project involves data preprocessing and cleaning (handling missing values in
 
 ## 💾 Dataset Source & Download Link
 * **Original Source:** IBM Kaggle / Telecom Churn Dataset
-* **Dataset Download Link:** [https://github.com/Tasabihfarid/Telecom-Customer-Churn-Prediction]
+**Dataset Download Link:** [Download Dataset Here](https://github.com/Tasabihfarid/Telecom-Customer-Churn-Prediction)
+
+--- 
+## 🎬 Demo Video
+📺 [Watch the full project presentation and app demo](https://drive.google.com/file/d/1WZ5rZ_B19HzERVIMeA8WYCQgkh_1qAKt/view?usp=sharing)
 
 ---
 ## 🎨 Dynamic Web Application Interface & Multi-Scenario Test Cases
